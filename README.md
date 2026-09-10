@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Basic Calculator - README</title>
-</head>
 
-<body>
 
     <h1>🧮 Basic Calculator</h1>
 
@@ -93,5 +85,4 @@ git clone https://github.com/karthiklord24/Basic-calculator.git
         This project is open-source and available for learning and personal use.
     </p>
 
-</body>
-</html>
+
