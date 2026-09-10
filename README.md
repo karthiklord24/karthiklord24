@@ -1,88 +1,71 @@
+# 👋 Hi, I'm Karthik K
 
+### 💻 CSE Student | Web Developer | Tech Enthusiast
 
-    <h1>🧮 Basic Calculator</h1>
+I'm a Computer Science Engineering student passionate about **Web Development, Software Development, and emerging technologies**. I enjoy building projects, learning new technologies, and improving my development skills.
 
-    <p>
-        A simple and responsive <strong>Basic Calculator Web Application</strong>
-        built using HTML, CSS, and JavaScript.
-    </p>
+---
 
-    <h2>🚀 Features</h2>
-    <ul>
-        <li>➕ Addition</li>
-        <li>➖ Subtraction</li>
-        <li>✖️ Multiplication</li>
-        <li>➗ Division</li>
-        <li>🔢 Decimal number support</li>
-        <li>🧹 Clear and delete functions</li>
-        <li>📱 Responsive design</li>
-        <li>⚡ Fast and easy to use</li>
-    </ul>
+## 🚀 About Me
 
-    <h2>🛠️ Technologies Used</h2>
-    <ul>
-        <li><strong>HTML5</strong> – Structure</li>
-        <li><strong>CSS3</strong> – Styling and responsive design</li>
-        <li><strong>JavaScript</strong> – Calculator logic</li>
-    </ul>
+- 🎓 B.E. Computer Science Engineering
+- 💻 Currently learning and building projects
+- 🌱 Learning **MERN Stack & Full-Stack Development**
+- 🔐 Interested in **Cybersecurity & Blockchain**
+- 🚀 Participating in **Hackathons & Technical Projects**
+- 🎯 Goal: Become a skilled Full-Stack Developer
 
-    <h2>📂 Project Structure</h2>
+---
 
-    <pre>
-Basic-calculator/
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
-    </pre>
+## 🛠️ Tech Stack
 
-    <h2>▶️ How to Run</h2>
+### 💻 Languages
 
-    <ol>
-        <li>Clone the repository:</li>
-    </ol>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-    <pre>
-git clone https://github.com/karthiklord24/Basic-calculator.git
-    </pre>
+### 🌐 Learning
 
-    <ol start="2">
-        <li>Open the project folder.</li>
-        <li>Open <strong>index.html</strong> in your browser.</li>
-    </ol>
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 
-    <h2>🎯 Purpose</h2>
+---
 
-    <p>
-        This project was created to practice frontend development,
-        JavaScript logic, DOM manipulation, and responsive UI design.
-    </p>
+## 📌 Featured Projects
 
-    <h2>👨‍💻 Developer</h2>
+### 🧮 Basic Calculator
+Responsive calculator built using **HTML, CSS and JavaScript**.
 
-    <p><strong>Karthik K</strong></p>
+### 🔗 MediChain
+Blockchain-based concept for **secure and controlled medical record management**.
 
-    <ul>
-        <li>
-            GitHub:
-            <a href="https://github.com/karthiklord24">
-                github.com/karthiklord24
-            </a>
-        </li>
+### 🛡️ Trustworthy Computer Vision
+A solution focused on ensuring **data, model and inference integrity** in multi-contributor computer vision pipelines.
 
-        <li>
-            LinkedIn:
-            <a href="https://www.linkedin.com/in/karthik-k-2717a5348">
-                LinkedIn Profile
-            </a>
-        </li>
-    </ul>
+---
 
-    <h2>📜 License</h2>
+## 📊 GitHub Stats
 
-    <p>
-        This project is open-source and available for learning and personal use.
-    </p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=karthiklord24&show_icons=true&theme=tokyonight)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=karthiklord24&layout=compact&theme=tokyonight)
 
+---
+
+## 🌐 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karthiklord24)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-k-2717a5348)
+
+---
+
+### ⚡ My Mindset
+
+> **"Learning to evolve. Building to create."** 🚀
+
+⭐ Thanks for visiting my profile!
