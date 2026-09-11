@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Karthik K
 
-### 💻 CSE Student | Web Developer | Tech Enthusiast
+### 💻 CSE Student | Web Developer|UI/UX Designer | Tech Enthusiast
 
 I'm a Computer Science Engineering student passionate about **Web Development, Software Development, and emerging technologies**. I enjoy building projects, learning new technologies, and improving my development skills.
 
@@ -66,6 +66,6 @@ A solution focused on ensuring **data, model and inference integrity** in multi-
 
 ### ⚡ My Mindset
 
-> **"Learning to evolve. Building to create."** 🚀
+> **"Learning to evolve. Building to create. Be ready"** 🚀
 
 ⭐ Thanks for visiting my profile!
