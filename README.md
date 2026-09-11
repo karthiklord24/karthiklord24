@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Karthik K
 
-### 💻 CSE Student | Web Developer|UI/UX Designer | Tech Enthusiast
+### 💻 CSE Student | Web Developer| UI/UX Designer | Tech Enthusiast
 
 I'm a Computer Science Engineering student passionate about **Web Development, Software Development, and emerging technologies**. I enjoy building projects, learning new technologies, and improving my development skills.
 
@@ -42,9 +42,6 @@ Responsive calculator built using **HTML, CSS and JavaScript**.
 
 ### 🔗 MediChain
 Blockchain-based concept for **secure and controlled medical record management**.
-
-### 🛡️ Trustworthy Computer Vision
-A solution focused on ensuring **data, model and inference integrity** in multi-contributor computer vision pipelines.
 
 ---
 
