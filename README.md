@@ -55,8 +55,6 @@ Blockchain-based concept for **secure and controlled medical record management**
 
 ## 🌐 Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/karthiklord24)
-
 **Let's connect** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-k-2717a5348)
 
 ---
