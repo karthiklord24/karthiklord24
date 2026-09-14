@@ -58,38 +58,77 @@ Blockchain-based concept for **secure and controlled medical record management**
 **Let's connect** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-k-2717a5348)
 
 ---
+
 <!-- ========================================================= -->
-<!--             🕷️ KARTHIK | SPIDER-VERSE DEV               -->
+<!--              🕷️ KARTHIK — MODERN DEV README              -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=170&section=header&text=KARTHIK%20K&fontSize=55&fontColor=ff2b2b&animation=fadeIn&fontAlignY=50"/>
+<!-- Animated Hero -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:050505,45:8B0000,75:ED1C24,100:050505&text=KARTHIK%20K&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Explorer&descAlignY=58&descSize=19" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=FF3333&center=true&vCenter=true&width=650&lines=%3E+Full+Stack+Developer;>+AI+%26+Web+Developer;>+Hackathon+Builder;>+Turning+Ideas+Into+Code"/>
+<!-- Animated Typing -->
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=700&color=ED1C24&center=true&vCenter=true&width=750&lines=%3E+Building+the+future+one+commit+at+a+time;%3E+Full+Stack+Developer;%3E+AI+%26+Web+Developer;%3E+Hackathon+Builder;%3E+Always+learning.+Always+building." />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/STATUS-BUILDING-ff2b2b?style=flat-square">
-<img src="https://img.shields.io/badge/FOCUS-FULL%20STACK-111111?style=flat-square">
-<img src="https://img.shields.io/badge/EXPLORING-AI-111111?style=flat-square">
+<!-- Status -->
+
+<img src="https://img.shields.io/badge/🟢_AVAILABLE_FOR_OPPORTUNITIES-111111?style=for-the-badge&labelColor=111111&color=ED1C24"/>
 
 </div>
 
 ---
 
-## 🕸️ `whoami`
+<div align="center">
 
-```bash
-┌──(karthik㉿developer)-[~/profile]
-└─$ ./about-me.sh
+### 🕸️ `CONNECT`
 
-Name        : Karthik K
-Role        : Computer Science Student
-Focus       : Full Stack Development
-Exploring   : Artificial Intelligence
-Environment : VS Code + Git + GitHub
-Mission     : Build → Learn → Improve
-Status      : ONLINE 🕷️
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://yourportfolio.com">
+<img src="https://img.shields.io/badge/Portfolio-ED1C24?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 🕷️ 01 — ABOUT ME
+
+<table>
+<tr>
+<td width="60%">
+
+```yaml
+name: Karthik K
+role: Computer Science Student
+
+focus:
+  - Full Stack Development
+  - Artificial Intelligence
+  - Web Development
+
+currently_learning:
+  - React
+  - Python
+  - Backend Development
+  - AI / LLMs
+  - RAG
+
+interests:
+  - Hackathons
+  - Open Source
+  - Innovation
+  - Problem Solving
