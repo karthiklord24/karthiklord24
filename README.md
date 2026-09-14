@@ -114,15 +114,15 @@ Currently learning and building with:
 # 🕸️ Currently Building
 
 ```text
-╔══════════════════════════════════════════╗
-║          🕷️  MISSION CONTROL             ║
-╠══════════════════════════════════════════╣
-║                                                 ║
+╔═════════════════════════════════════════╗
+║          🕷️  MISSION CONTROL                   ║
+╠═════════════════════════════════════════╣
+║                                                ║
 ║  🌐 Full Stack Applications                     ║
-║  🤖 AI-Powered Applications              ║
-║  🐍 Python Backend Projects              ║
-║  ⚛️ React Interfaces                     ║
-║  🏥 Healthcare Technology                ║
-║  🏆 Hackathon Projects                   ║
-║                                          ║
-╚══════════════════════════════════════════╝
+║  🤖 AI-Powered Applications                     ║
+║  🐍 Python Backend Projects                     ║
+║  ⚛️ React Interfaces                            ║
+║  🏥 Healthcare Technology                       ║
+║  🏆 Hackathon Projects                          ║
+║                                                 ║
+╚═════════════════════════════════════════╝
