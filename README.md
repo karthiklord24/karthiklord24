@@ -23,6 +23,7 @@
 ```yaml
 name: Karthik K
 role: CSE Student & Developer
+
 <pre>🚀 About Me
 🎓 B.E. Computer Science Engineering Student
 💻 Web Developer & UI/UX Enthusiast
