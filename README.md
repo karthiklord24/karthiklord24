@@ -44,23 +44,23 @@ role: CSE Student & Developer
 🎨 Love creating clean and user-friendly interfaces
 🧠 Always learning something new
 
-focus:
+##focus:
   - Web Development
   - UI/UX Design
   - Full-Stack Development
   - Cybersecurity
   - Blockchain
 
-currently_learning:
+##currently_learning:
   - MERN Stack
   
 
-currently_building:
+##currently_building:
   - Web Projects
   - Hackathon Projects
   - Innovative Tech Solutions
 
-goal: Become a skilled Full-Stack Developer 🚀
+##goal: Become a skilled Full-Stack Developer 🚀
 
 HTML / CSS          ████████████████████  95%
 JavaScript          ███████████████░░░░░  75%
@@ -75,7 +75,7 @@ Blockchain          ███████░░░░░░░░░░░░░
 
 🚧 Building → Testing → Improving → Launching 🚀
 
-🎯 2026 Roadmap
+##🎯 2026 Roadmap
 
 ✅ HTML
 ✅ CSS
@@ -91,7 +91,7 @@ Blockchain          ███████░░░░░░░░░░░░░
 ⬜ Build Real-World Products
 
 
-🌟 What I'm Looking For
+##🌟 What I'm Looking For
 
 
 🤝 Collaboration
