@@ -4,8 +4,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:b30000,100:ff0000&height=220&section=header&text=KARTHIK%20K&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF3B3B&center=true&vCenter=true&width=650&lines=CSE+Student+%7C+Web+Developer;UI%2FUX+Designer+%7C+Tech+Enthusiast;MERN+Stack+Learner;Building+Ideas+%E2%86%92+Projects;Hackathon+%7C+Innovation+%7C+Technology" />
+<a href="https://www.linkedin.com/in/karthik-k-2717a5348">
+<img src="https://img.shields.io/badge/🔗%20LinkedIn-Connect%20With%20Me-0A66C2?style=for-the-badge"/>
 </a>
 
 <br>
