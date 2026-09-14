@@ -16,8 +16,6 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=karthiklord24&label=PROFILE+VIEWS&color=red&style=for-the-badge"/>
-
 </div>
 
 ---
