@@ -24,14 +24,14 @@
 name: Karthik K
 role: CSE Student & Developer
 
-<pre>🚀 About Me
+🚀 About Me
 🎓 B.E. Computer Science Engineering Student
 💻 Web Developer & UI/UX Enthusiast
 🌱 Currently exploring MERN Stack & Full-Stack Development
 🔐 Interested in Cybersecurity & Blockchain
 🏆 Actively participating in Hackathons & Technical Projects
 🎨 Love creating clean and user-friendly interfaces
-🧠 Always learning something new</pre>
+🧠 Always learning something new
 
 focus:
   - Web Development
