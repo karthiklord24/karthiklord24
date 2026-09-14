@@ -61,30 +61,34 @@ Blockchain          ███████░░░░░░░░░░░░░
 
 🚧 Building → Testing → Improving → Launching 🚀
 
+🏆 Hackathon Mode
+
            IDEA
              │
              ▼
       ┌─────────────┐
-      │  PROBLEM    │
+      │  PROBLEM      │
       └──────┬──────┘
-             │
-             ▼
+              │
+              ▼
       ┌─────────────┐
-      │   SOLUTION  │
+      │   SOLUTION    │
       └──────┬──────┘
-             │
-             ▼
+              │
+              ▼
       ┌─────────────┐
-      │  PROTOTYPE  │
+      │  PROTOTYPE.   │
       └──────┬──────┘
-             │
-             ▼
+              │
+              ▼
       ┌─────────────┐
-      │   TESTING   │
+      │   TESTING     │
       └──────┬──────┘
-             │
-             ▼
+              │
+              ▼
         🚀 DEMO DAY
+
+🎯 2026 Roadmap
 
 ✅ HTML
 ✅ CSS
@@ -98,6 +102,9 @@ Blockchain          ███████░░░░░░░░░░░░░
 ⬜ Cybersecurity Projects
 ⬜ Open Source Contributions
 ⬜ Build Real-World Products
+
+
+🌟 What I'm Looking For
 
 🤝 Collaboration
 💻 Open Source Projects
