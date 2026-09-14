@@ -58,3 +58,38 @@ Blockchain-based concept for **secure and controlled medical record management**
 **Let's connect** [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karthik-k-2717a5348)
 
 ---
+<!-- ========================================================= -->
+<!--             🕷️ KARTHIK | SPIDER-VERSE DEV               -->
+<!-- ========================================================= -->
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d0d0d&height=170&section=header&text=KARTHIK%20K&fontSize=55&fontColor=ff2b2b&animation=fadeIn&fontAlignY=50"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=800&color=FF3333&center=true&vCenter=true&width=650&lines=%3E+Full+Stack+Developer;>+AI+%26+Web+Developer;>+Hackathon+Builder;>+Turning+Ideas+Into+Code"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/STATUS-BUILDING-ff2b2b?style=flat-square">
+<img src="https://img.shields.io/badge/FOCUS-FULL%20STACK-111111?style=flat-square">
+<img src="https://img.shields.io/badge/EXPLORING-AI-111111?style=flat-square">
+
+</div>
+
+---
+
+## 🕸️ `whoami`
+
+```bash
+┌──(karthik㉿developer)-[~/profile]
+└─$ ./about-me.sh
+
+Name        : Karthik K
+Role        : Computer Science Student
+Focus       : Full Stack Development
+Exploring   : Artificial Intelligence
+Environment : VS Code + Git + GitHub
+Mission     : Build → Learn → Improve
+Status      : ONLINE 🕷️
