@@ -117,8 +117,8 @@ Currently learning and building with:
 ╔══════════════════════════════════════════╗
 ║          🕷️  MISSION CONTROL             ║
 ╠══════════════════════════════════════════╣
-║                                          ║
-║  🌐 Full Stack Applications              ║
+║                                                 ║
+║  🌐 Full Stack Applications                     ║
 ║  🤖 AI-Powered Applications              ║
 ║  🐍 Python Backend Projects              ║
 ║  ⚛️ React Interfaces                     ║
