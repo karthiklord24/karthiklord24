@@ -60,7 +60,7 @@ Blockchain-based concept for **secure and controlled medical record management**
 ---
 
 <!-- ========================================================= -->
-<!--              🕷️ KARTHIK — MODERN DEV README              -->
+<!--              🕷️ KARTHIK — MODERN DEV README              --
 <!-- ========================================================= -->
 
 <div align="center">
