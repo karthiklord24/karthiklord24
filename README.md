@@ -19,6 +19,10 @@
 <!-- ===================== INTRO ===================== -->
 
 ## 👋 Hey, I'm Karthik!
+
+```yaml
+name: Karthik K
+role: CSE Student & Developer
 <pre>🚀 About Me
 🎓 B.E. Computer Science Engineering Student
 💻 Web Developer & UI/UX Enthusiast
@@ -27,9 +31,7 @@
 🏆 Actively participating in Hackathons & Technical Projects
 🎨 Love creating clean and user-friendly interfaces
 🧠 Always learning something new</pre>
-```yaml
-name: Karthik K
-role: CSE Student & Developer
+
 focus:
   - Web Development
   - UI/UX Design
@@ -60,33 +62,6 @@ Blockchain          ███████░░░░░░░░░░░░░
 ████████████████████████████████ 100%
 
 🚧 Building → Testing → Improving → Launching 🚀
-
-🏆 Hackathon Mode
-
-           IDEA
-             │
-             ▼
-      ┌─────────────┐
-      │  PROBLEM      │
-      └──────┬──────┘
-              │
-              ▼
-      ┌─────────────┐
-      │   SOLUTION    │
-      └──────┬──────┘
-              │
-              ▼
-      ┌─────────────┐
-      │  PROTOTYPE.   │
-      └──────┬──────┘
-              │
-              ▼
-      ┌─────────────┐
-      │   TESTING     │
-      └──────┬──────┘
-              │
-              ▼
-        🚀 DEMO DAY
 
 🎯 2026 Roadmap
 
