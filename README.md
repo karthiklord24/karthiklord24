@@ -60,75 +60,55 @@ Blockchain-based concept for **secure and controlled medical record management**
 ---
 
 <!-- ========================================================= -->
-<!--              🕷️ KARTHIK — MODERN DEV README              --
+<!--              🕷️ KARTHIK K | GITHUB PROFILE              -->
 <!-- ========================================================= -->
 
 <div align="center">
 
-<!-- Animated Hero -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:050505,45:8B0000,75:ED1C24,100:050505&text=KARTHIK%20K&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20AI%20Explorer&descAlignY=58&descSize=19" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:050505,45:8B0000,75:ED1C24,100:050505&text=KARTHIK%20K&fontSize=62&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=CSE%20STUDENT%20%7C%20WEB%20DEVELOPER%20%7C%20UI%2FUX%20DESIGNER&descSize=17&descAlignY=59" width="100%"/>
 
 <br>
 
-<!-- Animated Typing -->
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=700&color=ED1C24&center=true&vCenter=true&width=750&lines=%3E+Building+the+future+one+commit+at+a+time;%3E+Full+Stack+Developer;%3E+AI+%26+Web+Developer;%3E+Hackathon+Builder;%3E+Always+learning.+Always+building." />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2200&pause=800&color=ED1C24&center=true&vCenter=true&width=800&lines=🕷️+Welcome+to+my+digital+web;💻+CSE+Student+%7C+Web+Developer;🎨+UI%2FUX+Designer;🚀+MERN+Stack+Learner;🔐+Cybersecurity+%26+Blockchain+Explorer;🏆+Hackathon+Builder"/>
 
 <br><br>
 
-<!-- Status -->
+<img src="https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-050505?style=for-the-badge&labelColor=050505&color=ED1C24"/>
 
-<img src="https://img.shields.io/badge/🟢_AVAILABLE_FOR_OPPORTUNITIES-111111?style=for-the-badge&labelColor=111111&color=ED1C24"/>
-
-</div>
-
----
-
-<div align="center">
-
-### 🕸️ `CONNECT`
-
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://yourportfolio.com">
-<img src="https://img.shields.io/badge/Portfolio-ED1C24?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
+<img src="https://img.shields.io/badge/FOCUS-FULL%20STACK-050505?style=for-the-badge&labelColor=050505&color=8B0000"/>
 
 </div>
 
 ---
 
-# 🕷️ 01 — ABOUT ME
+# 🕷️ `WHO_AM_I`
 
 <table>
 <tr>
+
 <td width="60%">
 
 ```yaml
 name: Karthik K
-role: Computer Science Student
 
-focus:
-  - Full Stack Development
-  - Artificial Intelligence
-  - Web Development
+education:
+  degree: B.E. Computer Science Engineering
+
+role:
+  - CSE Student
+  - Web Developer
+  - UI/UX Designer
+  - Tech Enthusiast
 
 currently_learning:
-  - React
-  - Python
-  - Backend Development
-  - AI / LLMs
-  - RAG
+  - MERN Stack
+  - Full Stack Development
 
 interests:
-  - Hackathons
-  - Open Source
-  - Innovation
-  - Problem Solving
+  - Cybersecurity
+  - Blockchain
+  - Software Development
+  - Emerging Technologies
+
+goal:
+  - Become a Skilled Full Stack Developer
