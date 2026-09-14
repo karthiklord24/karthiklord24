@@ -1,24 +1,31 @@
-<!-- ===================== HERO ===================== -->
+<!-- ===================== MODERN HERO ===================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,50:b30000,100:ff0000&height=220&section=header&text=KARTHIK%20K&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35" width="100%"/>
-
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF3B3B&center=true&vCenter=true&width=650&lines=CSE+Student+%7C+Web+Developer;UI%2FUX+Designer+%7C+Tech+Enthusiast;MERN+Stack+Learner;Building+Ideas+%E2%86%92+Projects;Hackathon+%7C+Innovation+%7C+Technology" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:080808,50:1a1a1a,100:8B0000&height=180&section=header&text=KARTHIK%20K&fontSize=58&fontColor=ffffff&fontAlignY=45&animation=fadeIn" width="100%"/>
 
 <br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&pause=1000&color=FF4B4B&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Web+Developer+%7C+UI%2FUX+Designer;MERN+Stack+Developer+in+Progress;Cybersecurity+%7C+Blockchain+%7C+AI;Turning+Ideas+into+Real+Projects+%F0%9F%9A%80" />
+
+<br><br>
 
 <a href="https://www.linkedin.com/in/karthik-k-2717a5348">
-<img src="https://img.shields.io/badge/LinkedIn-My%20Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<br>
+<a href="https://github.com/karthiklord24">
+<img src="https://img.shields.io/badge/GITHUB-karthiklord24-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/🚀_BUILDING-Projects-red?style=flat-square"/>
+<img src="https://img.shields.io/badge/🧠_LEARNING-MERN_Stack-black?style=flat-square"/>
+<img src="https://img.shields.io/badge/🏆_ACTIVE-Hackathons-red?style=flat-square"/>
 
 </div>
 
----
 
 <!-- ===================== INTRO ===================== -->
 
