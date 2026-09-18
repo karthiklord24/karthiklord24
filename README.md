@@ -92,7 +92,7 @@ A simple calculator website built while learning the fundamentals of **HTML, CSS
 
 **Status:** `COMPLETED ✓`
 
-<a href="https://github.com/basic-calculator-karthik.vercel.app/">
+<a href="https://basic-calculator-karthik.vercel.app/">
 <img src="https://img.shields.io/badge/View%20on%20GitHub-FF3131?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
