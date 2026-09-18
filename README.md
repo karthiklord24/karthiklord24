@@ -63,15 +63,15 @@ Full Stack Development · AI/ML · UI/UX Design
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=c,cpp,python,js,java&theme=dark" alt="Icons for C, C++, Python, JavaScript and Java" />
+<img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Icons for  Python" />
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,figma&theme=dark" alt="Icons for HTML, CSS, JavaScript, Bootstrap and Figma" />
+<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Icons for HTML, CSS, JavaScript" />
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,python&theme=dark" alt="Icons for Node.js, Express and Python" />
+<img src="https://skillicons.dev/icons?i=nodejs,python&theme=dark" alt="Icons for Node.js and Python" />
 
 ### Database
 
@@ -79,11 +79,11 @@ Full Stack Development · AI/ML · UI/UX Design
 
 ### Tools & Platforms
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,figma&theme=dark" alt="Icons for Git, GitHub, VS Code, Postman, Linux and Figma" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" alt="Icons for Git, GitHub, VS Code and Figma" />
 
 ### Currently Learning
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,tensorflow,docker,aws&theme=dark" alt="Icons for React, Tailwind CSS, TensorFlow, Docker and AWS" />
+<img src="https://skillicons.dev/icons?i=react,tailwind css &theme=dark" alt="Icons for React, Tailwind CSS" />
 
 <br />
 
@@ -115,16 +115,6 @@ Full Stack Development · AI/ML · UI/UX Design
 <tr>
 <td width="50%" valign="top">
 
-### 🧩 BIS Assist
-
-AI-powered intelligent assistant for Indian Standards and BIS services — built to make dense standards documentation searchable and understandable.
-
-**Stack:** `Python` `NLP` `JavaScript` `HTML/CSS`
-
-[GitHub Repository](#) · [Live Demo](#)
-
-</td>
-<td width="50%" valign="top">
 
 ### 🔗 MediChain
 
@@ -139,16 +129,6 @@ A blockchain-based concept for secure medical record management, focused on pati
 <tr>
 <td width="50%" valign="top">
 
-### 📄 AI Resume Analyzer
-
-An AI-based system that parses resumes and returns structured, useful feedback on content, keywords and formatting.
-
-**Stack:** `Python` `NLP` `Flask` `HTML/CSS`
-
-[GitHub Repository](#) · [Live Demo](#)
-
-</td>
-<td width="50%" valign="top">
 
 ### ⚡ Web Hero Portfolio
 
