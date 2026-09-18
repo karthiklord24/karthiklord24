@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0000,100:ff1a1a&height=180&section=header&text=KARTHIK%20K&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a0000,100:ff1a1a&height=180&section=header&text=%20K&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
 # Karthik K
 
