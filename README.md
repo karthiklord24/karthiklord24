@@ -83,7 +83,7 @@ Full Stack Development · AI/ML · UI/UX Design
 
 ### Currently Learning
 
-<img src="https://skillicons.dev/icons?i=react,tailwind css &theme=dark" alt="Icons for React, Tailwind CSS" />
+<img src="https://skillicons.dev/icons?i=react,tailwindCSS &theme=dark" alt="Icons for React and Tailwind CSS" />
 
 <br />
 
