@@ -4,7 +4,7 @@
 
 # Karthik K
 
-### `CSE STUDENT` • `DEVELOPER IN PROGRESS` • `UI/UX LEARNER`
+### `CSE STUDENT` • `DEVELOPER IN PROGRESS` 
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=FF3131&center=true&vCenter=true&width=650&lines=Code.+Learn.+Build.+Repeat.;Currently+Learning+%F0%9F%94%A5;Exploring+Full+Stack+Development;Exploring+AI%2FML;Practicing+UI%2FUX+Design;Growing+One+Project+at+a+Time." alt="Typing animation"/>
 
