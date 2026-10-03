@@ -40,7 +40,7 @@ I'm interested in:
 * 🧠 Problem Solving
 * 🚀 Building useful projects
 
-### 🔴 Current Status
+### 🔴 Current Status 
 
 > **Coding & Learning in Progress**
 
