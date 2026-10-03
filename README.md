@@ -101,7 +101,7 @@ A simple calculator website built while learning the fundamentals of **HTML, CSS
 ---
 
 ## `04` — LEARNING JOURNEY
-
+ 
 <div align="center">
 
 ```text
