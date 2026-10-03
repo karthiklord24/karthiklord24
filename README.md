@@ -28,7 +28,7 @@
 
 ---
 
-## `01` — ABOUT ME
+## `01` — ABOUT ME 
 
 Hi! I'm **Karthik**, a 3rd-year **Computer Science Engineering student** at **Jaya Engineering College**.
 
