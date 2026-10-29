@@ -164,7 +164,6 @@ A simple calculator website built while learning the fundamentals of **HTML, CSS
 * 🏆 Participate in hackathons
 * 🌱 Learn from every project
 * 🔥 Improve consistent
-
 ---
 
 ## `08` — MY MINDSET
