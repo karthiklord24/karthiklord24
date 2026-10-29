@@ -159,7 +159,6 @@ A simple calculator website built while learning the fundamentals of **HTML, CSS
 * 🧠 Practice DSA and problem solving
 * 💻 Learn Full Stack Development
 * 🤖 Explore AI / ML
-* 🎨 Improv
 * 🚀 Build more real-world projects
 * 🏆 Participate in hackathons
 ---
